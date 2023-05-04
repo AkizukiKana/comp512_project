@@ -8,7 +8,8 @@ After the database is setup, use dms.sql to setup the database schema, this is o
 2 - Redis, NGXIN and MinIO:
 Download the following zip as well as install redis from this website: https://redis.com/redis-enterprise/redis-insight/
 NGINX&MINIO&REDIS.zip
-download the zip onto two different computer and edit the following files for ip-binding:
+Download MinIO from their official website and put MinIO.exe inside the zip folder
+Copy zip onto two different computer and edit the following files for ip-binding:
 start_minio_cluster12_nginx_redis_windows.bat
 redis.windows.conf
 nginx.conf
