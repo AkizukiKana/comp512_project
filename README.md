@@ -1,5 +1,5 @@
 # comp512_project
-# Zhenmin Wang
+By Zhenmin Wang
 
 Required 3rd party setup:
 1 - Download and install MySQL:
